@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 
 [![chrgue's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrgue)](https://github.com/chrgue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrgue)](https://github.com/chrgue)
-
-<script src="https://gist.github.com/chrgue/8142732a2119e1d54718881c7ef0974a.js"></script>
-
